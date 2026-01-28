@@ -65,12 +65,6 @@ Spearheaded critical systems integration for a major Higher Education institutio
 
 ---
 
-## 📈 GitHub Stats
-
-![Brad's GitHub stats](https://github-readme-stats.vercel.app/api?username=bradmca&show_icons=true&theme=radical&hide=stars)
-
----
-
 ### 📫 Get in Touch
 
 - **Consultancy:** [Real Code Ltd](https://www.realcode.co.uk/)
