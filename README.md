@@ -1,8 +1,3 @@
-Here is the complete, cohesive `README.md` file.
-
-I have balanced your modern AI/Next.js work with your deep experience in C# and ASP.NET, particularly in the Higher Education sector.
-
-```markdown
 # Hello, I'm Brad McAllister 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bradmca/)
