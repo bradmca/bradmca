@@ -70,5 +70,3 @@ Spearheaded critical systems integration for a major Higher Education institutio
 
 - **Consultancy:** [Real Code Ltd](https://www.realcode.co.uk/)
 - **LinkedIn:** [Brad McAllister](https://www.linkedin.com/in/bradmca/)
-
-```
