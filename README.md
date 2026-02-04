@@ -64,6 +64,7 @@ Spearheaded critical systems integration for a major Higher Education institutio
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
+**⭐ If my public projects help you, please give them a star!**
 
 ### 📫 Get in Touch
 
