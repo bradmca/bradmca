@@ -11,7 +11,7 @@ While my core background is in the **Microsoft Ecosystem (C#, ASP.NET, Azure)**,
 
 ## 🚀 About Me
 
-- 🎓 **Sector Expertise:** I have a decade of experience designing and integrating systems specifically for the **Higher Education** sector.
+- 🎓 **Sector Expertise:** I have a decade of experience designing and integrating systems specifically for the **Higher Education** , **Mobile Telecommunications** and **CRM / Sales** sectors.
 - 💻 **Core Stack:** Deep expertise in **C#**, **ASP.NET MVC**, and **SQL Server** environments.
 - 🤖 **AI & Automation:** I am heavily invested in AI-assisted coding using **Windsurf** and **Cursor**, and building automation workflows with **n8n**.
 - 🔐 **Security:** Experienced with **Kali Linux** for security testing and infrastructure hardening.
